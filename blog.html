@@ -1,0 +1,15 @@
+---
+layout: page
+title: Blog
+---
+
+<div class="blog-list">
+  {% for post in site.posts %}
+  <article class="blog-card">
+    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+  </article>
+  {% endfor %}
+</div>

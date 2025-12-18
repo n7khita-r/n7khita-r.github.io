@@ -1,0 +1,16 @@
+title: "Good day!"
+description: Nikhita Ravi's Personal Website
+url: "https://n7khita-r.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
