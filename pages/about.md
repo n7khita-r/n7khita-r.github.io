@@ -20,6 +20,13 @@ I am a second-year B-Tech student at IIIT Hyderabad, pursuing a Dual Degree in C
 
 <br>
 
+### Experience
+
+- **Undergraduate Researcher, [CVIT](https://cvit.iiit.ac.in/), IIIT Hyderabad** (May 2026 – Present): Working on computer vision, image understanding and document parsing, advised by Dr. Ravi Kiran.
+- **Research Intern, [Saṁbhāṣaṇa Lab](https://sambhashana.github.io/team/)** (Dec 2025 – Present): Working on knowledge graphs and LLM reasoning (Legal GraphRAG) under Dr. Hrishikesh Terdalkar.
+
+<br>
+
 ### Let's Connect
 
 Feel free to reach out if you want to collaborate on projects, discuss ideas, or just chat about tech!
